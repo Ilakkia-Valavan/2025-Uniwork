@@ -1,2 +1,2 @@
 # 2025-Uniwork
-practicing algorithms and applications 
+practicing algorithms and applications for interships
